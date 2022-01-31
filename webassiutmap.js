@@ -8,14 +8,14 @@
 // ascending and descending, and can be filtered by
 // label.
 // ---------------------------------------------------
-// Author: Beautiful Beta
-// Url: http://beautifulbeta.blogspot.com
+// Author: ويب اسيوط
+// Url: https://web-assiut.blogspot.com
 // Version: 2
-// Date: 2007-04-12
+// Date: 1-2-2022
 // ---------------------------------------------------
 // Modified by Aneesh 
-// www.bloggerplugins.org
-// Date : 02-08-2011
+// https://web-assiut.blogspot.com
+// Date : 1-2-2022
 // global arrays
 
    var postTitle = new Array();     // array of posttitles
@@ -184,7 +184,7 @@ function displayToc(filter) {
    var tocTable = '';
    var tocHead1 = 'عنوان المشاركة';
    var tocTool1 = 'انقر للترتيب حسب العنوان';
-   var tocHead2 = 'تاريخ المشاركة';
+   var tocHead2 = 'التاريخ';
    var tocTool2 = 'انقر للترتيب حسب التاريخ';
    var tocHead3 = 'القسم';
    var tocTool3 = '';
